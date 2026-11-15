@@ -2,16 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to implement a function that calculates the Levenshtein distance between two strings of the same length and return -1 if their sizes differ.
 
 ## Description
-TODO - How have you solved the problem?
+This project consists of writing a function that compares two imput strings character by character and counts the total number of differents between them.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No special installation is required for this project. You only need a working python environment to run the source code.
 
 ## Usage
-TODO - How does it work?
+To use or test this project, you can import the function into your python script and pass two strings as parameters to evaluate their distance.
 ```
 ./my_project argument1 argument2
 ```
